@@ -156,7 +156,7 @@
     </v-content>
 
     <v-footer height="auto" class="page-footer">
-      <v-card flat tile class="flex black">
+      <v-card flat tile color="#111" class="flex">
         <v-layout row wrap justify-center align-center class="mt-2 mb-3">
           <v-flex xs12 class="text-xs-center mb-2">
             <v-btn class="mx-3" dark icon>
@@ -187,7 +187,7 @@
                 </p>
               </v-flex>
               <v-flex xs12 md6>
-                <p class="white--text">© 2019 Veterans of War Aid Foundation | All Rights Reserved</p>
+                <p class="white--text">© 2019 Veterans of War Aid Foundation</p>
               </v-flex>
             </v-layout>
           </v-flex>

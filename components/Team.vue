@@ -2,7 +2,8 @@
   <v-container fluid>
     <v-layout wrap justify-center align-center class="py-4 row">
       <v-flex xs12 class="mt-3 mb-4">
-        <h2 class="display-2 primary--text text-xs-center">Our Team</h2>
+        <h2 class="display-2 primary--text text-xs-center mb-2">Our Team</h2>
+        <v-divider></v-divider>
       </v-flex>
       <!-- Israel Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
@@ -17,7 +18,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Nate Acevedo</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Nate Acevedo</div>
               <div class="headline primary--text pt-1 pb-2">Chief Executive Officer</div>
               <div class="secondary--text subheading pt-2 px-3 widen">
                 <p>nateacevedo@vowaidfoundation.org</p>
@@ -39,7 +40,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Ticiane Ward</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Ticiane Ward</div>
               <div class="headline primary--text pt-1 pb-2">Founder/Chief Financial Officer</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>alice@vowaidfoundation.org</p>
@@ -61,7 +62,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Liz Hensel</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Liz Hensel</div>
               <div class="headline primary--text pt-1 pb-2">Public Affairs Liaison</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>liz@vowaidfoundation.org</p>
@@ -83,7 +84,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Joe Caci</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Joe Caci</div>
               <div class="headline primary--text pt-1 pb-2">President</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>joecaci@vowaidfoundation.org</p>
@@ -105,7 +106,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Lisa Hemmie</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Lisa Hemmie</div>
               <div class="headline primary--text pt-1 pb-2">Volunteer Team Leader</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>lisa@vowaidfoundation.org</p>
@@ -127,7 +128,7 @@
               ></v-img>
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
-              <div class="display-2 secondary--text mt-2">Hunter Nunnery</div>
+              <div class="display-2 black--text text--lighten-4 mt-2">Hunter Nunnery</div>
               <div class="headline primary--text pt-1 pb-2">Web Developer</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>hunter@vowaidfoundation.org</p>
@@ -155,6 +156,11 @@ export default {
   .widen {
     padding-left: 0px !important;
     padding-right: 0px !important;
+  }
+}
+@media screen and (max-width: 660px) {
+  .display-2 {
+    font-size: 36px !important;
   }
 }
 </style>

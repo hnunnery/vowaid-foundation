@@ -23,7 +23,9 @@
         >The purpose of the Veterans of War Aid Foundation, is to provide and enhance Supportive Social Services and Mentoring/Counseling for military mothers, and families as well as for established and exiting Veterans. As VOWAID staff, volunteers, partners and Board of Directors help promote positive outcomes to improve civic amenities of military and civilian infrastructure services, by establishing better selected dispositions for Men and Women Veterans, spouses, children of disabled Veterans and our Fallen Heroes through centralizing their activities of essential services through a consortium of care.</p>
       </v-flex>
       <v-flex xs12>
-        <p class="text-xs-center title primary--text mt-4">Charity #3729691 EIN #: 47-2465494</p>
+        <p
+          class="text-xs-center title primary--text mt-4 smaller"
+        >Charity #3729691 EIN #: 47-2465494</p>
       </v-flex>
     </v-layout>
   </v-container>
@@ -36,4 +38,21 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@media screen and (max-width: 599px) {
+  .container {
+    padding: 0 0 50px 0 !important;
+    margin: 0 !important;
+  }
+  h2,
+  p {
+    padding: 0 10px;
+  }
+  h2 {
+    font-size: 32px !important;
+    margin: 10px auto !important;
+  }
+  .smaller {
+    font-size: 18px !important;
+  }
+}
 </style>
