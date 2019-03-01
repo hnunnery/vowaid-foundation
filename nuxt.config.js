@@ -96,13 +96,17 @@ module.exports = {
     ],
     script: [
       {
-        src: "https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"
+        src: "https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js",
+        async: true,
+        defer: true
       },
       {
         src: "https://cdn.snipcart.com/scripts/2.0/snipcart.js",
         id: "snipcart",
         "data-api-key":
-          "ZGEyZjFjMjktOWNkMi00MTNhLWIwZDMtOTFkOGQ0NDJlNTdjNjM2NzA0NzEzOTkzMTgzOTc4"
+          "ZGEyZjFjMjktOWNkMi00MTNhLWIwZDMtOTFkOGQ0NDJlNTdjNjM2NzA0NzEzOTkzMTgzOTc4",
+        async: true,
+        defer: true
       }
     ]
   },
