@@ -41,7 +41,7 @@
             </v-flex>
             <v-flex xs12 sm7 class="text-xs-center">
               <div class="display-2 black--text text--lighten-4 mt-2">Ticiane Ward</div>
-              <div class="headline primary--text pt-1 pb-2">Founder/Chief Financial Officer</div>
+              <div class="headline primary--text pt-1 pb-2">Founder and CFO</div>
               <div class="secondary--text subheading pt-2 px-3">
                 <p>alice@vowaidfoundation.org</p>
               </div>
