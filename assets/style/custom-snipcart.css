@@ -1,0 +1,28 @@
+:root {
+  --brand-color: #12123f;
+}
+.snip-layout .snip-header,
+.snip-layout .snip-header__total,
+.snip-layout .snip-footer {
+  background: var(--brand-color);
+}
+.snip-layout .snip-btn {
+  background-color: var(--brand-color);
+  border-radius: 3px;
+  border: 1px solid #fff;
+}
+.snip-layout .snip-btn:hover {
+  background-color: rgb(230, 228, 228, 0.5);
+}
+.snip-layout .snip-btn--highlight {
+  background: #05c40e;
+  color: white !important;
+  text-shadow: #333 0.5px 0.5px 5px;
+}
+.snip-layout .snip-btn--highlight:hover {
+  background: #05c40e;
+  border: 1px solid #111;
+}
+.snip-layout .snip-quantity-trigger__text {
+  padding: 0 10px;
+}

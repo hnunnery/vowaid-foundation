@@ -1,0 +1,5 @@
+# For enabling the snipcart JSON crawler
+[[headers]]
+  for = "/products.json"
+  [headers.values]
+  Content-Type = "application/json"
