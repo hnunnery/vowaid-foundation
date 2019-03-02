@@ -107,6 +107,11 @@ module.exports = {
           "ZGEyZjFjMjktOWNkMi00MTNhLWIwZDMtOTFkOGQ0NDJlNTdjNjM2NzA0NzEzOTkzMTgzOTc4",
         async: true,
         defer: true
+      },
+      {
+        src: "/unregister-sw.js",
+        async: true,
+        defer: true
       }
     ]
   },
@@ -123,7 +128,7 @@ module.exports = {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: "#ffffff" },
+  loading: { color: "#141434" },
 
   /*
    ** Global CSS
