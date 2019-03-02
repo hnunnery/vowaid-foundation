@@ -5,7 +5,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_80,w_800/v1551386116/VOWAID/oscars2019.jpg"
           alt="volunteers"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2 class="mt-3 twentyeight primary--text">2019 Oscars Volunteer Event</h2>
         <v-divider class="mb-2"></v-divider>
@@ -18,7 +18,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_1440/v1538694547/VOWAID/coachella.jpg"
           alt="concert"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2 class="mt-3 twentyeight primary--text">2018 Coachella Volunteer Event</h2>
         <v-divider class="mb-2"></v-divider>
@@ -30,7 +30,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_auto:best,w_1440/v1535518449/VOWAID/oscarsedit.jpg"
           alt="group photo"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2 class="mt-3 twentyeight primary--text">2018 Oscars Volunteer Event</h2>
         <v-divider class="mb-2"></v-divider>

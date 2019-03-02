@@ -9,42 +9,42 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_80,w_800/v1551386116/VOWAID/oscars2019.jpg"
           alt="volunteers"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-3 fw">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_800/v1551387614/VOWAID/oscars2019-execs.jpg"
           alt="execs"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-3 fw">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_800/v1551387614/VOWAID/oscars2019-meeting.jpg"
           alt="meeting"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-3 fw">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_800/v1551387614/VOWAID/oscars2019-brief.jpg"
           alt="brief"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-3 fw">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_800/v1551387687/VOWAID/oscars2019-alice.jpg"
           alt="prep"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-3 fw">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_800/v1551387614/VOWAID/oscars2019-tux.jpg"
           alt="tuxedo"
-          class="responsive-img"
+          class="responsive-img elevation-12"
         >
       </v-flex>
     </v-layout>

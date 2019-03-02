@@ -5,7 +5,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_70,w_800/v1546288462/VOWAID/bg29.jpg"
           alt="suit"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2 class="text-xs-center mt-3 twentyeight primary--text">Transition Assistance Resources</h2>
         <v-divider class="mb-2"></v-divider>
@@ -17,7 +17,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_70,w_800/v1546288462/VOWAID/bg24.jpg"
           alt="meeting"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2 class="text-xs-center mt-3 twentyeight primary--text">VA Claims Process Assistance</h2>
         <v-divider class="mb-2"></v-divider>
@@ -29,7 +29,7 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_70,w_800/v1546288508/VOWAID/w1.jpg"
           alt="woman on laptop"
-          class="responsive-img"
+          class="responsive-img elevation-12 mb-3"
         >
         <h2
           class="text-xs-center mt-3 twentyeight primary--text"

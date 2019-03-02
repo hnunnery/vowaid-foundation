@@ -28,7 +28,7 @@
         <h3 class="display-1 font-weight-regular">Creator of this Website</h3>
         <p
           class="subheading secondary--text text-xs-left my-3"
-        >codeHunter is a web design and development business that creates quality, cutting edge web sites and web applications for small businesses and individuals. In addition to sites, a number of other services are offered, to include: logo design, web hosting, and web consulting on many things related to tech and small businesses.</p>
+        >Independent contractor that codes performant, cutting edge websites for small businesses and individuals. In addition to sites, a number of other services are offered, to include: logo design, web hosting, and web consulting on many things related to tech and small businesses. Need someone to handle this part of your business? Get in touch today.</p>
         <v-btn
           href="https://www.codehunter.io"
           target="_blank"
@@ -48,3 +48,17 @@
     </v-layout>
   </v-container>
 </template>
+
+<script>
+export default {
+  name: "sponsors"
+};
+</script>
+
+<style lang="scss" scoped>
+@media screen and (max-width: 399px) {
+  h3.display-1 {
+    font-size: 32px !important;
+  }
+}
+</style>
