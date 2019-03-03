@@ -11,20 +11,8 @@
         <v-divider class="mb-2"></v-divider>
         <p
           class="subheading secondary--text text-xs-left"
-        >VOWAID raised eleven thousand dollars by providing Safety Ambassadors for the 2019 OSCARS. All of our volunteers are active duty and Veterans! United for a change! Raised funds are going towards helping Veterans in need.</p>
+        >VOWAID provided Safety Ambassadors for the 2019 Academy Awards. All of our volunteers are active duty and Veterans! United for a change! Raised funds are going towards helping Veterans in need.</p>
         <v-btn to="/oscars19" class="primary white--text">See More</v-btn>
-      </v-flex>
-      <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
-        <img
-          src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_1440/v1538694547/VOWAID/coachella.jpg"
-          alt="concert"
-          class="responsive-img elevation-12 mb-3"
-        >
-        <h2 class="mt-3 twentyeight primary--text">2018 Coachella Volunteer Event</h2>
-        <v-divider class="mb-2"></v-divider>
-        <p
-          class="subheading secondary--text text-xs-left"
-        >VOWAID raised 22 thousand dollars by serving as Safety Ambassadors for Coachella. Our Volunteers had a lot of fun securing the VIP areas and ensuring everyone's safety. Proceeds were used to help Veteran families.</p>
       </v-flex>
       <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
         <img
@@ -36,7 +24,19 @@
         <v-divider class="mb-2"></v-divider>
         <p
           class="subheading secondary--text text-xs-left"
-        >VOWAID raised nine thousand dollars by providing Safety Ambassadors for the 2018 OSCARS. All of our volunteers are active duty and Veterans! United for a change! Raised funds are going towards helping Veterans in need.</p>
+        >VOWAID provided Safety Ambassadors for the 2018 Academy Awards. All of our volunteers are active duty and Veterans! United for a change! Raised funds are going towards helping Veterans in need.</p>
+      </v-flex>
+      <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
+        <img
+          src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_1440/v1538694547/VOWAID/coachella.jpg"
+          alt="concert"
+          class="responsive-img elevation-12 mb-3"
+        >
+        <h2 class="mt-3 twentyeight primary--text">2017 Coachella Volunteer Event</h2>
+        <v-divider class="mb-2"></v-divider>
+        <p
+          class="subheading secondary--text text-xs-left"
+        >VOWAID served as Safety Ambassadors for Coachella. Our Volunteers had a lot of fun securing the VIP areas and ensuring everyone's safety. Proceeds were used to help Veteran families.</p>
       </v-flex>
       <v-flex xs12 sm8 xl7 class="mx-2">
         <v-card class="pa-3">
