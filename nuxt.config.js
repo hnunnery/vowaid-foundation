@@ -136,6 +136,7 @@ module.exports = {
   css: [
     "~/assets/style/app.styl",
     "~/assets/style/custom-snipcart.css",
+    "~/assets/style/styles.css",
     "aos/dist/aos.css"
   ],
 
