@@ -64,7 +64,7 @@ export default {
 }
 .page-header-image {
   min-height: 100vh;
-  background-image: url("https://res.cloudinary.com/missionwebdev/image/upload/c_scale,e_grayscale,f_auto,q_49,w_1200/v1534889507/VOWAID/marine1.jpg");
+  background-image: url("https://res.cloudinary.com/missionwebdev/image/upload/c_scale,e_grayscale,f_auto,q_49,w_1200/v1551844806/VOWAID/marine.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
