@@ -1,7 +1,7 @@
 <template>
   <v-container fluid>
     <v-layout row wrap justify-center class="mb-5">
-      <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
+      <!-- <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_80,w_800/v1551386116/VOWAID/oscars2019.jpg"
           alt="volunteers"
@@ -25,7 +25,7 @@
         <p
           class="subheading secondary--text text-xs-left"
         >VOWAID provided Safety Ambassadors for the 2018 Academy Awards. All of our volunteers are active duty and Veterans! United for a change! Raised funds are going towards helping Veterans in need.</p>
-      </v-flex>
+      </v-flex>-->
       <v-flex xs12 md6 xl5 class="pa-5 fw text-xs-center">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_1440/v1538694547/VOWAID/coachella.jpg"

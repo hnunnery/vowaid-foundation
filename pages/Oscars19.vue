@@ -1,14 +1,12 @@
-<template>
-  <Oscars2019/>
-</template>
+<template></template>
 
 <script>
-import Oscars2019 from "@/components/Oscars2019";
+// import Oscars2019 from "@/components/Oscars2019";
 
 export default {
   name: "oscars19",
   components: {
-    Oscars2019
+    // Oscars2019
   }
 };
 </script>
