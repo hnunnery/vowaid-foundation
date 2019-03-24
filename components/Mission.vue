@@ -1,6 +1,6 @@
 <template>
   <v-container fluid class="pt-2 mb-4">
-    <v-layout row wrap justify-center align-center>
+    <v-layout row wrap justify-center>
       <v-flex xs12 md10 class="ma-2">
         <h2 class="primary--text display-1 text-xs-center my-2">Mission Statement</h2>
         <v-divider class="mb-3"></v-divider>
