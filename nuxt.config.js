@@ -42,7 +42,7 @@ module.exports = {
       {
         property: "og:image",
         content:
-          "https://res.cloudinary.com/missionwebdev/image/upload/f_auto/v1539475870/VOWAID/vowaid_twitter_card.jpg"
+          "https://res.cloudinary.com/missionwebdev/image/upload/f_auto/v1553647520/VOWAID/vowaid-meta-card.jpg"
       },
       { property: "og:url", content: "https://www.vowaidfoundation.org" },
       { name: "twitter:card", content: "summary_large_image" }
