@@ -107,11 +107,6 @@ module.exports = {
           "ZGEyZjFjMjktOWNkMi00MTNhLWIwZDMtOTFkOGQ0NDJlNTdjNjM2NzA0NzEzOTkzMTgzOTc4",
         async: true,
         defer: true
-      },
-      {
-        src: "/unregister-sw.js",
-        async: true,
-        defer: true
       }
     ]
   },
