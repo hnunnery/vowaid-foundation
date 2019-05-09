@@ -1,13 +1,13 @@
 <template>
-  <v-container fluid>
+  <v-container fluid class="grey darken-3">
     <v-layout wrap justify-center align-center class="py-4 row">
       <v-flex xs12 class="mt-3 mb-4">
-        <h2 class="display-2 primary--text text-xs-center mb-2">Our Team</h2>
+        <h2 class="display-2 white--text text-xs-center mb-2">Our Team</h2>
         <v-divider></v-divider>
       </v-flex>
-      <!-- Israel Profile -->
+      <!-- Nate Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
-        <v-card class="elevation12 pa-3 card">
+        <v-card class="elevation-12 pa-3 card nuxtwhite">
           <v-layout row wrap justify-center align-center>
             <v-flex xs12 sm5 class="mb-3">
               <v-img
@@ -29,7 +29,7 @@
       </v-flex>
       <!-- Alice Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
-        <v-card class="elevation12 pa-3 card">
+        <v-card class="elevation-12 pa-3 card nuxtwhite">
           <v-layout row wrap justify-center align-center>
             <v-flex xs12 sm5 class="mb-3">
               <v-img
@@ -51,7 +51,7 @@
       </v-flex>
       <!-- Lisa Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
-        <v-card class="elevation12 pa-3 card">
+        <v-card class="elevation-12 pa-3 card nuxtwhite">
           <v-layout row wrap justify-center align-center>
             <v-flex xs12 sm5 class="mb-3">
               <v-img
@@ -73,7 +73,7 @@
       </v-flex>
       <!-- Liz Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
-        <v-card class="elevation12 pa-3 card">
+        <v-card class="elevation-12 pa-3 card nuxtwhite">
           <v-layout row wrap justify-center align-center>
             <v-flex xs12 sm5 class="mb-3">
               <v-img
@@ -95,7 +95,7 @@
       </v-flex>
       <!-- Hunter Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
-        <v-card class="elevation12 pa-3 card">
+        <v-card class="elevation-12 pa-3 card nuxtwhite">
           <v-layout row wrap justify-center align-center>
             <v-flex xs12 sm5 class="mb-3">
               <v-img

@@ -11,6 +11,7 @@ Vue.use(Vuetify, {
     info: colors.teal.lighten1,
     warning: "#BE2030",
     error: colors.deepOrange.accent4,
-    success: "#22aa00"
+    success: "#22aa00",
+    nuxtwhite: colors.grey.lighten5
   }
 });

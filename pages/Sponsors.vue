@@ -13,6 +13,8 @@
           class="subheading secondary--text text-xs-left my-3"
         >Darkblade Systems is based in Northern Virginia with personnel supporting Intelligence Community (IC) and Department of Defense (DOD) customers in CONUS and OCONUS locations. Darkblade leadership is comprised of prior military intelligence and special operations personnel with diverse complex operations experience. Many Darkblade employees have served proudly in the U.S. Military, and all continue to support the military and intelligence communities in their civilian efforts.</p>
         <v-btn
+          large
+          round
           href="https://darkbladesystems.com"
           target="_blank"
           class="primary white--text mb-5"
@@ -30,6 +32,8 @@
           class="subheading secondary--text text-xs-left my-3"
         >Independent contractor that codes performant, cutting edge websites for small businesses and individuals. In addition to sites, a number of other services are offered, to include: logo design, web hosting, and web consulting on many things related to tech and small businesses. Need someone to handle this part of your business? Get in touch today.</p>
         <v-btn
+          large
+          round
           href="https://www.codehunter.io"
           target="_blank"
           class="success white--text mb-5"
@@ -42,7 +46,7 @@
           <h5
             class="subheading secondary--text py-2"
           >Please contact our team to discuss our Corporate Sponsor program, and benefits!</h5>
-          <v-btn to="/contact" class="primary white--text">Get in Touch</v-btn>
+          <v-btn large round to="/contact" class="primary white--text">Get in Touch</v-btn>
         </v-card>
       </v-flex>
     </v-layout>

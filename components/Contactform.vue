@@ -3,7 +3,7 @@
     <v-container class="py-3">
       <v-layout wrap justify-space-around>
         <v-flex xs12 sm9 md6 xl4>
-          <v-card class="elevation12 my-4">
+          <v-card class="elevation-12 my-4 nuxtwhite">
             <v-card-text>
               <form
                 name="contact"
@@ -38,7 +38,7 @@
                 >
                 <textarea name="message" placeholder="Message" rows="4" required class="my-4"></textarea>
                 <div class="text-xs-center">
-                  <v-btn large type="submit" class="primary mt-4">Submit</v-btn>
+                  <v-btn large round type="submit" class="primary mt-4">Submit</v-btn>
                 </div>
               </form>
             </v-card-text>
@@ -89,7 +89,8 @@
                   <h4 class="secondary--text display-1">
                     <span class="hide-on-mobile">Mailing</span> Address
                   </h4>
-                  <p class="secondary--text subheading">2307 S. Rural Road
+                  <p class="secondary--text subheading">
+                    2307 S. Rural Road
                     <br>Tempe, Arizona 85282
                   </p>
                 </v-flex>

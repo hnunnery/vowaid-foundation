@@ -36,6 +36,7 @@
           <v-flex xs9 sm4 class="text-xs-center mt-3">
             <v-btn
               large
+              round
               to="/store"
               class="primary white--text"
               style="font-size: 1.2rem;"
