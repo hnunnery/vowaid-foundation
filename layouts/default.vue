@@ -210,6 +210,9 @@ export default {
       rightDrawer: false,
       title: "Vuetify.js"
     };
+  },
+  mounted() {
+    Snipcart.execute("config", "show_continue_shopping", true);
   }
 };
 </script>
