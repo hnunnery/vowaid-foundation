@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid>
+  <v-container fluid px-0>
     <v-layout row wrap justify-center align-center>
       <v-flex xs12 md6 lg4 xl3 class="text-xs-center">
         <v-hover>
@@ -515,7 +515,19 @@ export default {
     height: 570px;
   }
 }
+@media screen and (max-width: 420px) {
+  .v-card {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+}
 .donations-btn {
-  width: 140px;
+  width: 160px;
+}
+.v-btn {
+  transition: all 0.2s ease-in-out;
+}
+.v-btn:hover {
+  transform: scale(1.1);
 }
 </style>
