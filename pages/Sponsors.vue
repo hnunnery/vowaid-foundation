@@ -8,17 +8,19 @@
           class="responsive-img"
         >
         <h6 class="title primary--text mt-3 mb-2">V.I.P. Corporate Sponsor</h6>
-        <h3 class="display-1 font-weight-regular">Employing Intelligence Community Veterans</h3>
-        <p
-          class="subheading secondary--text text-xs-left my-3"
-        >Darkblade Systems is based in Northern Virginia with personnel supporting Intelligence Community (IC) and Department of Defense (DOD) customers in CONUS and OCONUS locations. Darkblade leadership is comprised of prior military intelligence and special operations personnel with diverse complex operations experience. Many Darkblade employees have served proudly in the U.S. Military, and all continue to support the military and intelligence communities in their civilian efforts.</p>
-        <v-btn
-          large
-          round
-          href="https://darkbladesystems.com"
-          target="_blank"
-          class="primary white--text mb-5"
-        >Visit Site</v-btn>
+        <div data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
+          <h3 class="display-1 font-weight-regular">Employing Intelligence Community Veterans</h3>
+          <p
+            class="subheading secondary--text text-xs-left my-3"
+          >Darkblade Systems is based in Northern Virginia with personnel supporting Intelligence Community (IC) and Department of Defense (DOD) customers in CONUS and OCONUS locations. Darkblade leadership is comprised of prior military intelligence and special operations personnel with diverse complex operations experience. Many Darkblade employees have served proudly in the U.S. Military, and all continue to support the military and intelligence communities in their civilian efforts.</p>
+          <v-btn
+            large
+            round
+            href="https://darkbladesystems.com"
+            target="_blank"
+            class="primary white--text mb-5"
+          >Visit Site</v-btn>
+        </div>
       </v-flex>
       <v-flex xs12 md10 xl8 class="text-xs-center mb-5">
         <img
@@ -27,17 +29,19 @@
           class="responsive-img"
         >
         <h6 class="title success--text mt-3 mb-2">Team Member and Volunteer</h6>
-        <h3 class="display-1 font-weight-regular">Creator of this Website</h3>
-        <p
-          class="subheading secondary--text text-xs-left my-3"
-        >Independent contractor that codes performant, cutting edge websites for small businesses and individuals. In addition to sites, a number of other services are offered, to include: logo design, web hosting, and web consulting on many things related to tech and small businesses. Need someone to handle this part of your business? Get in touch today.</p>
-        <v-btn
-          large
-          round
-          href="https://www.codehunter.io"
-          target="_blank"
-          class="success white--text mb-5"
-        >Visit Site</v-btn>
+        <div data-aos="fade-left" data-aos-delay="200" data-aos-duration="1000">
+          <h3 class="display-1 font-weight-regular">Creator of this Website</h3>
+          <p
+            class="subheading secondary--text text-xs-left my-3"
+          >Independent contractor that codes performant, cutting edge websites for small businesses and individuals. In addition to sites, a number of other services are offered, to include: logo design, web hosting, and web consulting on many things related to tech and small businesses. Need someone to handle this part of your business? Get in touch today.</p>
+          <v-btn
+            large
+            round
+            href="https://www.codehunter.io"
+            target="_blank"
+            class="success white--text mb-5"
+          >Visit Site</v-btn>
+        </div>
       </v-flex>
 
       <v-flex xs12 md10 lg8 xl6>

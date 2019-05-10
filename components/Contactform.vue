@@ -49,6 +49,9 @@
             src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_100,w_705/v1535429145/VOWAID/vowaid-logo-dark-shadow.png"
             alt="logo"
             class="responsive-img mt-5"
+            data-aos="fade-left"
+            data-aos-delay="200"
+            data-aos-duration="1000"
           >
           <div class="my-5">
             <div class="text-xs-left">

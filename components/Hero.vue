@@ -5,10 +5,22 @@
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_100,w_705/v1535429145/VOWAID/vowaid-logo-dark-shadow.png"
           alt="logo"
-          class="responsive-img main-logo mb-5"
+          class="responsive-img main-logo mb-1"
+          data-aos="fade-right"
+          data-aos-delay="200"
+          data-aos-duration="1000"
         >
       </v-flex>
-      <v-flex xs12 md10 lg6 xl5 class="px-5">
+      <v-flex
+        xs12
+        md10
+        lg6
+        xl5
+        class="px-5"
+        data-aos="fade-left"
+        data-aos-delay="200"
+        data-aos-duration="1000"
+      >
         <div class="hide-on-mobile">
           <h1 class="display-3 font-weight-bold white--text text-xs-center mb-2">Mission Statement</h1>
           <h4
