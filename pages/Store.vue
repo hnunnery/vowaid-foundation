@@ -9,14 +9,13 @@
             class="pa-4 ma-3 nuxtwhite"
           >
             <h4 class="display-1 primary--text">Donation</h4>
-            <p class="subheading my-1">Use the options below to get your desired total.</p>
             <p
-              class="body-1 mb-2"
-            >Proceeds go to helping Veterans and their families in need. Donations can be used as a tax deduction.</p>
+              class="secondary--text subheading my-1"
+            >Use the options below to get your desired total.</p>
             <v-layout row wrap justify-center align-center>
               <v-flex>
                 <v-btn
-                  class="snipcart-add-item primary donations-btn"
+                  class="snipcart-add-item primary donations-b mt-5tn"
                   large
                   round
                   data-item-id="0010D"
@@ -29,7 +28,7 @@
               </v-flex>
               <v-flex>
                 <v-btn
-                  class="snipcart-add-item primary donations-btn"
+                  class="snipcart-add-item primary donations-b mt-5tn"
                   large
                   round
                   data-item-id="0020D"
@@ -42,7 +41,7 @@
               </v-flex>
               <v-flex>
                 <v-btn
-                  class="snipcart-add-item primary donations-btn"
+                  class="snipcart-add-item primary donations-b mt-5tn"
                   large
                   round
                   data-item-id="0050D"
@@ -55,7 +54,7 @@
               </v-flex>
               <v-flex>
                 <v-btn
-                  class="snipcart-add-item primary donations-btn"
+                  class="snipcart-add-item primary donations-b mt-5tn"
                   large
                   round
                   data-item-id="0100D"
@@ -107,12 +106,8 @@
             <div style="width: 85%; text-align: right; margin-top: -50px;">
               <v-btn round small class="primary white--text" @click="flipCoin">flip</v-btn>
             </div>
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this coin! Full color, 2", 26xx Skull and Secret Squirrel.</p>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2600C"
@@ -142,12 +137,9 @@
               alt="2621 Pin"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this pin! 1", 2621 pin.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2621P"
@@ -177,12 +169,9 @@
               alt="2641 Pin"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this pin! 1", 2641 pin.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2641P"
@@ -213,12 +202,9 @@
               alt="2651 Pin"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this pin! 1", 2651 pin.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2651P"
@@ -249,12 +235,9 @@
               alt="26XXDDecal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 26XX Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="26XXD"
@@ -285,12 +268,9 @@
               alt="2651 Decal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 2651 Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2651D"
@@ -321,12 +301,9 @@
               alt="2602 Decal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 2602 Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2602D"
@@ -357,12 +334,9 @@
               alt="2629 Decal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 2629 Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2629D"
@@ -393,12 +367,9 @@
               alt="267X Decal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 267X Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="267XD"
@@ -429,12 +400,9 @@
               alt="2691 Decal"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >VOWAID and The Warrior Transition Club are proud to have paired with the 26XX Opportunities Community on this decal! 3", 2691 Decal.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="2691D"
@@ -465,12 +433,9 @@
               alt="pin"
               class="responsive-img"
             >
-            <p
-              class="description-height"
-              style="color: #333; font-weight: 400; padding-top: 15px;"
-            >1.65" VOWAID Foundation Pin.</p>
+            <br>
             <v-btn
-              class="snipcart-add-item primary white--text"
+              class="snipcart-add-item primary white--text mt-5"
               large
               round
               data-item-id="0001P"
@@ -508,11 +473,8 @@ export default {
 
 <style lang="scss" scoped>
 @media screen and (min-width: 960px) {
-  .description-height {
-    height: 80px;
-  }
   .v-card {
-    height: 570px;
+    height: 500px;
   }
 }
 @media screen and (max-width: 420px) {
@@ -523,11 +485,5 @@ export default {
 }
 .donations-btn {
   width: 160px;
-}
-.v-btn {
-  transition: all 0.2s ease-in-out;
-}
-.v-btn:hover {
-  transform: scale(1.1);
 }
 </style>

@@ -41,7 +41,7 @@
       </v-flex>
 
       <v-flex xs12 md10 lg8 xl6>
-        <v-card class="text-xs-center py-3 px-2">
+        <v-card class="text-xs-center py-3 px-2 nuxtwhite">
           <h3 class="headline">Become a Corporate Sponsor</h3>
           <h5
             class="subheading secondary--text py-2"

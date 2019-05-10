@@ -282,3 +282,13 @@ export default {
   }
 }
 </style>
+
+<style lang="scss">
+/* Global Styles */
+.v-btn {
+  transition: all 0.2s ease-in-out;
+}
+.v-btn:hover {
+  transform: scale(1.1);
+}
+</style>
