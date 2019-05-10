@@ -1,21 +1,21 @@
 <template>
   <v-container fluid class="pt-2 mb-4">
     <v-layout row wrap justify-center>
-      <v-flex xs12 md10 class="ma-2">
+      <v-flex xs12 md10 class="my-4 mx-2">
         <h2 class="primary--text display-1 text-xs-center my-2">Mission Statement</h2>
         <v-divider class="mb-3"></v-divider>
         <p
           class="secondary--text text-xs-left subheading"
         >The Veterans of War Aid Foundation (VOWAID) is a 501 (c) 3 non-profit organization founded by U.S. Service Members, dedicated to assisting veterans, spouses and children of disabled veterans, and Fallen Heroes by providing opportunities for financial, emotional growth and self-empowerment.</p>
       </v-flex>
-      <v-flex xs12 md10 lg5 class="ma-2">
+      <v-flex xs12 md10 lg5 class="my-4 mx-2">
         <h2 class="primary--text display-1 text-xs-center my-2">Purpose Statement</h2>
         <v-divider class="mb-3"></v-divider>
         <p
           class="secondary--text text-xs-left subheading"
         >We believe that charity should be a self-sustaining mechanism that gives back more than it takes. Here at the VOWAID Foundation, we feel you can accomplish your goals by adhering to three (3) primary aspirations: (1) Perseverance, (2) Personal Responsibility, and (3) through Community Engagement. Anything is possible and can be accomplished with a well-connected social enterprise, determination and sacrifice. Individuals must understand how important it is to get involved to support Men and Women Veterans, spouses, children of disabled Veterans and our Fallen Heroes by giving them the tools they need to survive after long years of War-fighting.</p>
       </v-flex>
-      <v-flex xs12 md10 lg5 class="ma-2">
+      <v-flex xs12 md10 lg5 class="my-4 mx-2">
         <h2 class="primary--text display-1 text-xs-center my-2">Organization Summary</h2>
         <v-divider class="mb-3"></v-divider>
         <p

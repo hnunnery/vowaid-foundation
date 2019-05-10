@@ -1,9 +1,9 @@
 <template>
   <v-container fluid class="grey darken-3">
     <v-layout wrap justify-center align-center class="py-4 row">
-      <v-flex xs12 class="mt-3 mb-4">
+      <v-flex xs12 lg12 xl10 class="mt-3 mb-4">
         <h2 class="display-2 white--text text-xs-center mb-2">Our Team</h2>
-        <v-divider></v-divider>
+        <v-divider class="primary"></v-divider>
       </v-flex>
       <!-- Nate Profile -->
       <v-flex xs12 lg6 xl5 class="pa-2 mobile-padding">
