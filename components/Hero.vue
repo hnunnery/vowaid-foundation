@@ -1,18 +1,18 @@
 <template>
   <v-container fluid class="page-header-image">
-    <v-layout row wrap align-center justify-center class="mt-5">
-      <v-flex xs12 md8 lg6 xl5 class="text-xs-center">
+    <v-layout row wrap align-center justify-center class="mt-5 pt-3">
+      <v-flex xs12 md8 lg6 xl4 class="text-xs-center">
         <img
           src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_100,w_705/v1535429145/VOWAID/vowaid-logo-dark-shadow.png"
           alt="logo"
-          class="responsive-img main-logo"
+          class="responsive-img main-logo mb-5"
         >
       </v-flex>
       <v-flex xs12 md10 lg6 xl5 class="px-5">
         <div class="hide-on-mobile">
-          <h1 class="display-3 font-weight-bold white--text text-xs-center">Mission Statement</h1>
+          <h1 class="display-3 font-weight-bold white--text text-xs-center mb-2">Mission Statement</h1>
           <h4
-            class="headline font-weight-light white--text text-xs-center px-2"
+            class="ms headline font-weight-light white--text text-xs-center px-2"
             style="text-shadow: white 1px 1px 3px;"
           >The Veterans of War Aid Foundation (VOWAID) is a 501 (c) 3 non-profit organization founded by U.S. Service Members, dedicated to assisting veterans, spouses and children of disabled veterans, and fallen heroes by providing opportunities for financial, emotional growth, and self-empowerment.</h4>
         </div>
@@ -72,5 +72,11 @@ export default {
 }
 .main-logo {
   max-height: 60vh;
+}
+.ms {
+  line-height: 1.5em !important;
+  @media only screen and (min-width: 1300px) {
+    line-height: 1.8em !important;
+  }
 }
 </style>
