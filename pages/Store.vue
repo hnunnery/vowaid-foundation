@@ -486,4 +486,7 @@ export default {
 .donations-btn {
   width: 160px;
 }
+.v-card {
+  border-radius: 15px;
+}
 </style>
