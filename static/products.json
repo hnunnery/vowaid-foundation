@@ -24,6 +24,12 @@
     "url": "/products.json"
   },
   {
+    "id": "1500D",
+    "price": 1500.0,
+    "name": "Donation",
+    "url": "/products.json"
+  },
+  {
     "id": "2600C",
     "price": 25.0,
     "name": "26XX SIGINT/EW Challenge Coin",

@@ -65,12 +65,25 @@
                   data-item-description="$100 Donation to VOWAID Foundation"
                 >$100.00</v-btn>
               </v-flex>
+              <v-flex>
+                <v-btn
+                  class="snipcart-add-item primary donations-b mt-5tn"
+                  large
+                  round
+                  data-item-id="1500D"
+                  data-item-name="Donation"
+                  data-item-price="1500.00"
+                  data-item-image="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_75/v1539460895/VOWAID/dollar-sign.png"
+                  data-item-url="/products.json"
+                  data-item-description="$1500 Donation to VOWAID Foundation"
+                >$1,500.00</v-btn>
+              </v-flex>
               <v-flex xs12 class="hidden-sm-and-down">
                 <img
                   src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_70,w_250/v1535429145/VOWAID/vowaid-logo-dark-shadow.png"
                   alt="logo"
                   class="responsive-img mt-4"
-                >
+                />
               </v-flex>
             </v-layout>
           </v-card>
@@ -94,15 +107,15 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_50,h_230/v1535165336/VOWAID/26XX-coin-skull.png"
               alt="coin"
               class="responsive-img"
-            >
+            />
             <img
               v-else
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_50,h_230/v1535165336/VOWAID/26XX-coin-squirrel.png"
               alt="coin"
               class="responsive-img"
-            >
-            <br>
-            <br>
+            />
+            <br />
+            <br />
             <div style="width: 85%; text-align: right; margin-top: -50px;">
               <v-btn round small class="primary white--text" @click="flipCoin">flip</v-btn>
             </div>
@@ -136,8 +149,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_fill,f_auto,h_230,w_169/v1539732628/VOWAID/2621-pin.jpg"
               alt="2621 Pin"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -168,8 +181,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1539732628/VOWAID/2641-pin.jpg"
               alt="2641 Pin"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -201,8 +214,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_fill,f_auto,h_230,w_169/v1539732628/VOWAID/2651-pin.jpg"
               alt="2651 Pin"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -234,8 +247,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1539732629/VOWAID/26XX-decal.jpg"
               alt="26XXDDecal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -267,8 +280,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1539732628/VOWAID/2651-decal.jpg"
               alt="2651 Decal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -300,8 +313,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1548123160/VOWAID/2602-decal.jpg"
               alt="2602 Decal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -333,8 +346,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1548123160/VOWAID/2629-decal.jpg"
               alt="2629 Decal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -366,8 +379,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1548123159/VOWAID/267X-decal.jpg"
               alt="267X Decal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -399,8 +412,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230/v1548123159/VOWAID/2691-decal.jpg"
               alt="2691 Decal"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
@@ -432,8 +445,8 @@
               src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,h_230,q_51/v1535440178/VOWAID/vowaid-pin.png"
               alt="pin"
               class="responsive-img"
-            >
-            <br>
+            />
+            <br />
             <v-btn
               class="snipcart-add-item primary white--text mt-5"
               large
