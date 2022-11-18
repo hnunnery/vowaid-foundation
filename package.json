@@ -15,7 +15,7 @@
     "aos": "^3.0.0-beta.6",
     "cross-env": "^5.2.0",
     "node-sass": "^4.11.0",
-    "nuxt": "^2.4.0",
+    "nuxt": "^2.15.8",
     "sass-loader": "^7.1.0",
     "vuetify": "^1.5.0",
     "vuetify-loader": "^1.2.0"
